@@ -6,8 +6,8 @@ node_modules/
 public/
 .deploy*/
 # // 给 .gitignore 添加以下内容
-ghost/
-buster/
-GitPython/
-Halfrost-Field/
-Yasuko/
+# ghost/
+# buster/
+# GitPython/
+# Halfrost-Field/
+# Yasuko/
